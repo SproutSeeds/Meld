@@ -1,0 +1,299 @@
+Concatenation session:
+Selected file: 0_IMG_4387 some guy just happy to be there.MOV from introduction, Target duration: 4.0s
+Selected file: IMG_4294.MOV from b_roll, Target duration: 2.6666666666666665s
+Selected file: IMG_4349.MOV from b_roll, Target duration: 2.6666666666666665s
+Selected file: IMG_4352.MOV from b_roll, Target duration: 2.6666666666666665s
+Selected file: IMG_4321 belly flop.MOV from body, Target duration: 0.8s
+Selected file: IMG_4317 off roof.MOV from body, Target duration: 0.8s
+Selected file: IMG_3913.MOV from body, Target duration: 0.8s
+Selected file: IMG_4323.MOV from body, Target duration: 0.8s
+Selected file: IMG_4310.MOV from body, Target duration: 0.8s
+Selected file: IMG_4305 in crowd nice movement.MOV from action_transition, Target duration: 2.0s
+Selected file: IMG_4318.MOV from conclusion, Target duration: 2.0s
+End of session
+
+Concatenation session:
+Selected file: 0_IMG_4375 smoke drink dance bounc.MOV from introduction, Target duration: 5.0s
+Selected file: IMG_4306.MOV from b_roll, Target duration: 3.3333333333333335s
+Selected file: IMG_3897.MOV from b_roll, Target duration: 3.3333333333333335s
+Selected file: IMG_4294.MOV from b_roll, Target duration: 3.3333333333333335s
+Selected file: IMG_4313.MOV from body, Target duration: 1.0s
+Selected file: IMG_3921 Setting up to jump.MOV from body, Target duration: 1.0s
+Selected file: IMG_3932.MOV from body, Target duration: 1.0s
+Selected file: IMG_3925.MOV from body, Target duration: 1.0s
+Selected file: IMG_3933.MOV from body, Target duration: 1.0s
+Selected file: 0_IMG_4347 pan around action calm.MOV from action_transition, Target duration: 2.5s
+Selected file: IMG_3914.MOV from conclusion, Target duration: 2.5s
+End of session
+
+Concatenation session:
+Selected file: 0_IMG_4375 smoke drink dance bounc.MOV from introduction, Target duration: 4.0s
+Selected file: IMG_3919.MOV from b_roll, Target duration: 2.6666666666666665s
+Selected file: IMG_3898.MOV from b_roll, Target duration: 2.6666666666666665s
+Selected file: IMG_4355.MOV from b_roll, Target duration: 2.6666666666666665s
+Selected file: IMG_4317 off roof.MOV from body, Target duration: 0.8s
+Selected file: IMG_3931.MOV from body, Target duration: 0.8s
+Selected file: IMG_4311 swimming vista.MOV from body, Target duration: 0.8s
+Selected file: IMG_4325.MOV from body, Target duration: 0.8s
+Selected file: IMG_4313.MOV from body, Target duration: 0.8s
+Selected file: IMG_3894 Moving through crowd.mov from action_transition, Target duration: 2.0s
+Selected file: IMG_4312.MOV from conclusion, Target duration: 2.0s
+End of session
+
+Concatenation session:
+Selected file: 0_IMG_3965 action vista expression short.mov from introduction, Target duration: 4.0s
+Selected file: IMG_4345.mov from b_roll, Target duration: 2.6666666666666665s
+Selected file: IMG_4377.MOV from b_roll, Target duration: 2.6666666666666665s
+Selected file: IMG_4306.MOV from b_roll, Target duration: 2.6666666666666665s
+Selected file: IMG_4310.MOV from body, Target duration: 0.8s
+Selected file: IMG_3913.MOV from body, Target duration: 0.8s
+Selected file: IMG_4313.MOV from body, Target duration: 0.8s
+Selected file: IMG_3932.MOV from body, Target duration: 0.8s
+Selected file: IMG_3921 Setting up to jump.MOV from body, Target duration: 0.8s
+Selected file: IMG_4291 dancing in crowd.mov from action_transition, Target duration: 2.0s
+Selected file: IMG_4314 swimming vista.MOV from conclusion, Target duration: 2.0s
+End of session
+
+Concatenation session:
+Selected file: 0_IMG_4341.mov from introduction, Target duration: 4.0s
+Selected file: IMG_3889.MOV from b_roll, Target duration: 2.6666666666666665s
+Selected file: IMG_3898.MOV from b_roll, Target duration: 2.6666666666666665s
+Selected file: IMG_4345.mov from b_roll, Target duration: 2.6666666666666665s
+Selected file: IMG_3932.MOV from body, Target duration: 0.8s
+Selected file: IMG_3921 Setting up to jump.MOV from body, Target duration: 0.8s
+Selected file: IMG_4321 belly flop.MOV from body, Target duration: 0.8s
+Selected file: IMG_4317 off roof.MOV from body, Target duration: 0.8s
+Selected file: IMG_3913.MOV from body, Target duration: 0.8s
+Selected file: IMG_3894 Moving through crowd.mov from action_transition, Target duration: 2.0s
+Selected file: IMG_3920.MOV from conclusion, Target duration: 2.0s
+End of session
+
+Concatenation session:
+Selected file: 0_IMG_4387 some guy just happy to be there.MOV from introduction, Target duration: 0.44117913832199546s
+Selected file: IMG_3889.MOV from b_roll, Target duration: 0.39473922902494335s
+Selected file: IMG_4345.mov from b_roll, Target duration: 0.4179591836734693s
+Selected file: IMG_4315.MOV from b_roll, Target duration: 0.3947392290249434s
+Selected file: IMG_3926.MOV from body, Target duration: 0.3947392290249434s
+Selected file: IMG_3933.MOV from body, Target duration: 0.41795918367346907s
+Selected file: IMG_3913.MOV from body, Target duration: 0.3947392290249434s
+Selected file: IMG_3924.MOV from body, Target duration: 0.3715192743764173s
+Selected file: IMG_4322.MOV from body, Target duration: 0.4179591836734695s
+Selected file: IMG_3895 dancing looking at camera.mov from action_transition, Target duration: 0.3947392290249434s
+Selected file: IMG_3917.MOV from conclusion, Target duration: 0.3947392290249434s
+End of session
+
+Concatenation session:
+Selected file: IMG_3896.mov from introduction, Target duration: 0.44117913832199546s
+Selected file: IMG_4294.MOV from b_roll, Target duration: 0.8359183673469388s
+Selected file: IMG_4359.mov from b_roll, Target duration: 1.253877551020408s
+Selected file: IMG_4345.mov from b_roll, Target duration: 1.6486167800453515s
+Selected file: IMG_4322.MOV from body, Target duration: 2.043356009070295s
+Selected file: IMG_3913.MOV from body, Target duration: 2.461315192743764s
+Selected file: IMG_4310.MOV from body, Target duration: 2.8560544217687074s
+Selected file: IMG_4316.MOV from body, Target duration: 3.2275736961451247s
+Selected file: IMG_4323.MOV from body, Target duration: 3.645532879818594s
+Selected file: IMG_4287 dancing group of girls n dudes.MOV from action_transition, Target duration: 4.040272108843538s
+Selected file: IMG_3920.MOV from conclusion, Target duration: 4.435011337868481s
+End of session
+
+Concatenation session:
+Selected file: IMG_3901 close up of the boys.mov from introduction, Target duration: 0.44117913832199546s
+Selected file: IMG_3897.MOV from b_roll, Target duration: 0.8359183673469388s
+Selected file: IMG_4309.MOV from b_roll, Target duration: 1.253877551020408s
+Selected file: IMG_4345.mov from b_roll, Target duration: 1.6486167800453515s
+Selected file: IMG_4311 swimming vista.MOV from body, Target duration: 2.043356009070295s
+Selected file: IMG_4313.MOV from body, Target duration: 2.461315192743764s
+Selected file: IMG_3916.MOV from body, Target duration: 2.8560544217687074s
+Selected file: IMG_4323.MOV from body, Target duration: 3.2275736961451247s
+Selected file: IMG_3933.MOV from body, Target duration: 3.645532879818594s
+Selected file: IMG_3964 stripper pole attempt.mov from action_transition, Target duration: 4.040272108843538s
+Selected file: IMG_4312.MOV from conclusion, Target duration: 4.435011337868481s
+End of session
+
+Concatenation session:
+Selected file: 0_IMG_4380 dancing chicks.MOV from introduction, Target duration: 4.0s
+Selected file: IMG_3919.MOV from b_roll, Target duration: 2.6666666666666665s
+Selected file: IMG_4349.MOV from b_roll, Target duration: 2.6666666666666665s
+Selected file: IMG_4383.MOV from b_roll, Target duration: 2.6666666666666665s
+Selected file: IMG_3913.MOV from body, Target duration: 0.8s
+Selected file: IMG_3924.MOV from body, Target duration: 0.8s
+Selected file: IMG_4317 off roof.MOV from body, Target duration: 0.8s
+Selected file: IMG_4325.MOV from body, Target duration: 0.8s
+Selected file: IMG_3932.MOV from body, Target duration: 0.8s
+Selected file: IMG_4365.mov from action_transition, Target duration: 2.0s
+Selected file: IMG_3930 jumping water middle fingers.MOV from conclusion, Target duration: 2.0s
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+Concatenation session:
+End of session
+
+Concatenation session:
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
+Concatenation session:
+End of session
+
