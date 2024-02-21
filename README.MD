@@ -1,5 +1,5 @@
-### Problem that we solve
-Look, I literally have over 1000 images/videos saved in the cloud for my artistic content creation for my business. And after the event, that content is never really accessed again. This is a system where we can categorize our content, have AI detail each piece that we have and keep a growing knowledge of our video clip options based on the story that we want to tell.
+### Problem that we solve for a specific customer type
+I have over 1000 images/videos saved in the cloud for my artistic content creation for my business. And after the event, that content is never really accessed again. This is a system where we can categorize our content, have AI detail each piece that we have and keep a growing knowledge of our video clip options based on the story that we want to tell.
 
 ### Original Project Goal
 I originally made this tool to help me make a video for my friend. He had a folder of video content, I hand selected the content and dropped it into specific categories, and instead of manually cutting the clips to music, I wanted to have this be automatd. So now, whatever music you have, whatever content you are working with, all you need to do is separate it by hand into 5 categories, and this program will auto generate content for you that is following the beat of the song that it is targetting.
