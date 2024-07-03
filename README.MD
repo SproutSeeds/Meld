@@ -15,10 +15,10 @@ I originally made this tool to help me make a video for my friend. He had a fold
 - Feel free to use that, you have my permission.
 - If you want to use your audio, add it to the folder and change line 48 within main.py to point to your audio file.
 
-# Currently pointing to my song in main.py:
-input_audio = os.path.join(base_audio_dir, "boat party reel audio example 003.wav")
+  # Currently pointing to my song in main.py:
+  input_audio = os.path.join(base_audio_dir, "boat party reel audio example 003.wav")
 
-## Step 4:
+## Step 3:
 - There is a list of constants defined at the top of main.py (line 11), you will change these based on how many clips you want the program to use from each category.
 - The next section of constants is to define the percentage proportionality of each category. If you have 1 from each category each clip will be 4 seconds long if the inputted final amount is 20 seconds. As you add more clips, the time gets shorter.
 - Here they are:
@@ -35,15 +35,15 @@ input_audio = os.path.join(base_audio_dir, "boat party reel audio example 003.wa
     PROPORTION_INTRODUCTION = 20
     PROPORTION_BODY = 20
 
-## Step 5:
+## Step 4:
 - make sure you are within the ./src folder in your command line.
 - type and enter in:
     # python main.py
 
-## Step 6:
+## Step 5:
 - Enter the amount of time you want your final video to be **(if using my audio file, it must be 20 seconds)**s
 
-## Step 7:
+## Step 6:
 - view the outputted video within the exports folder, it will be titled output.mov, there will also be a copy of the cropped audio sample (cropped at the inputted time you put, if 20 seconds it'll be cropped at 20 seconds)
 - Enjoy!
 
